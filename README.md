@@ -17,4 +17,4 @@ A security issue was recently discovered involving employee machines and user lo
 Successfully retrieved datas needed to investigate the security events that took place.
 The filtering logic developed can be directly translated into SIEM correlation rules to generate real-time alerts, significantly reducing the mean time to detect (MTTD) malicious activity, securing the organization system and mitigaing risk.
 # Project artifact
-See detailed labwork @ (# Applying_filters_SQL.md) (
+See detailed labwork @ (# Applying_filters_SQL.md) (https://github.com/Graceoke-Analyst/-Applying-filters-to-SQL-queries/blob/main/%23%20Applying_filters_SQL.md)
